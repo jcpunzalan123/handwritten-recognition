@@ -24,3 +24,8 @@ To run the tool, execute the following command:
 
 This will launch an interface that allows users to draw digits.
 Once a digit has been drawn, hit "Enter" in keyboard to start the prediction.
+
+
+# Demo
+
+![til](https://github.com/jcpunzalan123/handwritten-recognition/blob/main/handwritten_recognition_demo.gif)
